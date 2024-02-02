@@ -1,0 +1,26 @@
+{
+  "name": "ai-application-project",
+  "version": "1.0.0",
+  "description": "An AI powered coding tutor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarede712/AI-Application-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarede712/AI-Application-Project/issues"
+  },
+  "homepage": "https://github.com/Jarede712/AI-Application-Project#readme",
+  "dependencies": {
+    "@langchain/openai": "^0.0.14",
+    "dotenv": "^16.4.1",
+    "inquirer": "^8.2.4",
+    "langchain": "^0.1.12"
+  }
+}
